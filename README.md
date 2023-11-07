@@ -1,6 +1,6 @@
 # SK8 Creator
 
-Para entrar no nosso site utilize o endereço abaixo:
+Para entrar no nosso site utilize o endereço:
 https://www.guilhermeprovisor.com.br/sitedoskate/
 
 Projeto para a disciplina de Projeto e Desenvolvimento de Linguagens de Programação
